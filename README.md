@@ -1,4 +1,4 @@
-🔥 What I’m About
+##🔥 What I’m About
 I am deeply interested in the fields of **Artificial Intelligence, Machine Learning, and Data Science**, with a strong focus on how these technologies can be applied to solve practical challenges.  
 
 My academic and professional journey has given me exposure to:  
