@@ -1,16 +1,24 @@
-## Hi there 👋
+🔥 What I’m About
+I am deeply interested in the fields of **Artificial Intelligence, Machine Learning, and Data Science**, with a strong focus on how these technologies can be applied to solve practical challenges.  
 
-<!--
-**Aaayyuusshhh/Aaayyuusshhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My academic and professional journey has given me exposure to:  
+- 📊 **Data Science & Analytics** – working with data preprocessing, feature engineering, and predictive modeling  
+- 🤖 **AI/ML Development** – building and deploying models using frameworks like PyTorch, scikit-learn, and Transformers  
+- 🌐 **Software & Web Development** – developing scalable applications using React, Node.js, and modern web technologies  
+- 🏗️ **Systems & Networks** – experience in wireless operations, connectivity planning, and system optimization  
+- 📚 **Research & Innovation** – co-authoring and publishing research in applied machine learning for healthcare  
 
-Here are some ideas to get you started:
+I aim to combine these interests to design **intelligent, reliable, and impactful solutions** that bridge the gap between research and real-world application.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages**  
+`Python` • `C++` • `Java` • `JavaScript`  
+
+**Web Dev**  
+`React.js` • `Node.js` • `Express.js` • `HTML/CSS`  
+
+**Databases**  
+`MySQL` • `MongoDB` • `Firebase`  
+
+**AI / ML**  
+`PyTorch` • `Transformers` • `scikit-learn` • `NLTK` • `Streamlit`  
