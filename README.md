@@ -21,9 +21,6 @@ I aim to combine these interests to design <b>intelligent, reliable, and impactf
 ### 🛠️ Languages and Tools
 
 <div align="left">
-### 🛠️ Languages and Tools  
-
-<div align="left">
   <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
