@@ -93,60 +93,10 @@ APIs, data platforms and full-stack apps that **stay up**: PostgreSQL at 12M+ ro
 ## 06 — Technical toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,fastapi,flask,postgres,sqlite,tailwind&perline=10&theme=dark" alt="Languages and frameworks"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,aws,gcp,docker,linux,nginx,githubactions,bitbucket&perline=10&theme=dark" alt="AI, cloud and DevOps"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,grafana,prometheus,md&perline=10&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=python,ts,react,fastapi,postgres,pytorch,aws,gcp,docker,linux,nginx,githubactions&theme=dark&perline=12" alt="Core technologies"/>
 </p>
 
-**Generative AI & agents**<br/>
-![Claude](https://img.shields.io/badge/Anthropic%20Claude-161b22?style=for-the-badge&logo=anthropic&logoColor=38bdf8)
-![OpenAI](https://img.shields.io/badge/OpenAI-161b22?style=for-the-badge&logo=openai&logoColor=38bdf8)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-161b22?style=for-the-badge&logo=googlegemini&logoColor=38bdf8)
-![LangChain](https://img.shields.io/badge/LangChain-161b22?style=for-the-badge&logo=langchain&logoColor=38bdf8)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-161b22?style=for-the-badge&logo=huggingface&logoColor=38bdf8)
-![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-161b22?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG%20·%20FAISS-161b22?style=for-the-badge)
-![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-161b22?style=for-the-badge&logo=amazonwebservices&logoColor=38bdf8)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-161b22?style=for-the-badge&logo=googlecloud&logoColor=38bdf8)
-
-**Machine learning & data**<br/>
-![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=for-the-badge&logo=pytorch&logoColor=38bdf8)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-161b22?style=for-the-badge&logo=scikitlearn&logoColor=38bdf8)
-![XGBoost](https://img.shields.io/badge/XGBoost-161b22?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-161b22?style=for-the-badge&logo=huggingface&logoColor=38bdf8)
-![pandas](https://img.shields.io/badge/pandas-161b22?style=for-the-badge&logo=pandas&logoColor=38bdf8)
-![NumPy](https://img.shields.io/badge/NumPy-161b22?style=for-the-badge&logo=numpy&logoColor=38bdf8)
-![OpenCV](https://img.shields.io/badge/OpenCV-161b22?style=for-the-badge&logo=opencv&logoColor=38bdf8)
-![Tesseract OCR](https://img.shields.io/badge/Tesseract%20OCR-161b22?style=for-the-badge)
-
-**Automation & data engineering**<br/>
-![Playwright](https://img.shields.io/badge/Playwright-161b22?style=for-the-badge&logo=playwright&logoColor=38bdf8)
-![n8n](https://img.shields.io/badge/n8n-161b22?style=for-the-badge&logo=n8n&logoColor=38bdf8)
-![Zapier](https://img.shields.io/badge/Zapier-161b22?style=for-the-badge&logo=zapier&logoColor=38bdf8)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20·%20pg__trgm-161b22?style=for-the-badge&logo=postgresql&logoColor=38bdf8)
-![Web scraping](https://img.shields.io/badge/Web%20scraping%20at%20scale-161b22?style=for-the-badge)
-![Pipelines](https://img.shields.io/badge/Scheduled%20pipelines-161b22?style=for-the-badge)
-
-**Backend, frontend & mobile**<br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=38bdf8)
-![Flask](https://img.shields.io/badge/Flask-161b22?style=for-the-badge&logo=flask&logoColor=38bdf8)
-![React](https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=38bdf8)
-![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=38bdf8)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-161b22?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
-![Expo](https://img.shields.io/badge/iOS%20·%20Expo-161b22?style=for-the-badge&logo=expo&logoColor=38bdf8)
-![Node.js](https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&logo=nodedotjs&logoColor=38bdf8)
-
-**Cloud & DevOps**<br/>
-![AWS](https://img.shields.io/badge/AWS%20·%20EC2%20·%20RDS%20·%20S3%20·%20SES-161b22?style=for-the-badge&logo=amazonwebservices&logoColor=38bdf8)
-![GCP](https://img.shields.io/badge/Google%20Cloud-161b22?style=for-the-badge&logo=googlecloud&logoColor=38bdf8)
-![Docker](https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=38bdf8)
-![Nginx](https://img.shields.io/badge/Nginx-161b22?style=for-the-badge&logo=nginx&logoColor=38bdf8)
-![Linux](https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=38bdf8)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-161b22?style=for-the-badge&logo=githubactions&logoColor=38bdf8)
-![Prometheus](https://img.shields.io/badge/Prometheus-161b22?style=for-the-badge&logo=prometheus&logoColor=38bdf8)
-![Grafana](https://img.shields.io/badge/Grafana-161b22?style=for-the-badge&logo=grafana&logoColor=38bdf8)
+<img src="assets/stack.svg" alt="Technical toolbox: Generative AI, ML, automation, backend, frontend, cloud" width="100%"/>
 
 ---
 
