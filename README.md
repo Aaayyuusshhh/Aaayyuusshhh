@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg?v=3" alt="Aayush Katyal — AI & Automation Engineer" width="100%"/>
+<img src="assets/header-v3.svg" alt="Aayush Katyal — AI & Automation Engineer" width="100%"/>
 
 <a href="https://linkedin.com/in/aayush-katyal-b71a4a261"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:aayushkatyal.14@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -15,7 +15,7 @@ I'm an **AI & Automation Engineer at Resurgent India**. I turn slow, manual, hig
 
 My systems screen people and companies against **12 million+ sanctions and risk records**, and they write **bank-ready credit reports in minutes instead of weeks**. They run in production and are used every day by analysts, bankers and client teams. I care about AI that is **fast, verifiable and actually trusted with real decisions**.
 
-<img src="assets/about.svg?v=3" alt="About me" width="100%"/>
+<img src="assets/about-v3.svg" alt="About me" width="100%"/>
 
 ---
 
@@ -48,7 +48,7 @@ APIs, data platforms and full-stack apps that **stay up**: PostgreSQL at 12M+ ro
 
 ## ⚡ Flagship systems
 
-<a href="https://github.com/Aaayyuusshhh/argus-aml-intelligence-engine"><img src="assets/argus.svg?v=3" alt="Argus" width="100%"/></a>
+<a href="https://github.com/Aaayyuusshhh/argus-aml-intelligence-engine"><img src="assets/argus-v3.svg" alt="Argus" width="100%"/></a>
 
 **[Argus](https://github.com/Aaayyuusshhh/argus-aml-intelligence-engine) is a global anti-money-laundering and sanctions intelligence engine.**
 - Collects **800 official watchlists** (OFAC, UN, EU, Interpol, SEBI, RBI and more) from **90+ countries** into one **12.2-million-record** database.
@@ -58,7 +58,7 @@ APIs, data platforms and full-stack apps that **stay up**: PostgreSQL at 12M+ ro
 
 <br/>
 
-<a href="https://github.com/Aaayyuusshhh/atlas-agentic-credit-intelligence"><img src="assets/atlas.svg?v=3" alt="Atlas" width="100%"/></a>
+<a href="https://github.com/Aaayyuusshhh/atlas-agentic-credit-intelligence"><img src="assets/atlas-v3.svg" alt="Atlas" width="100%"/></a>
 
 **[Atlas](https://github.com/Aaayyuusshhh/atlas-agentic-credit-intelligence) is the AI credit-intelligence platform behind [resurgentindia.ai](https://resurgentindia.ai).**
 - From a single company ID it produces **bank-ready deliverables**: credit workbooks, board notes in 24 bank formats, forensic audits, valuations and AML reports.
@@ -69,13 +69,13 @@ APIs, data platforms and full-stack apps that **stay up**: PostgreSQL at 12M+ ro
 
 ## 🔗 How it all connects
 
-<img src="assets/ecosystem.svg?v=3" alt="How Argus and Atlas connect" width="100%"/>
+<img src="assets/ecosystem-v3.svg" alt="How Argus and Atlas connect" width="100%"/>
 
 ---
 
 ## 📈 Impact in numbers
 
-<img src="assets/impact.svg?v=3" alt="Impact in numbers" width="100%"/>
+<img src="assets/impact-v3.svg" alt="Impact in numbers" width="100%"/>
 
 ---
 
