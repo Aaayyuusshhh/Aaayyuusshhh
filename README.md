@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header-v4.svg" alt="Aayush Katyal — AI & Automation Engineer" width="100%"/>
+<img src="assets/header-v5.svg" alt="Aayush Katyal — AI & Automation Engineer" width="100%"/>
 
 <a href="https://linkedin.com/in/aayush-katyal-b71a4a261"><img src="https://img.shields.io/badge/LinkedIn-aayush--katyal-0d1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0d1117"/></a>
 <a href="mailto:aayushkatyal.14@gmail.com"><img src="https://img.shields.io/badge/Email-aayushkatyal.14@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=38bdf8&labelColor=0d1117"/></a>
@@ -47,7 +47,7 @@ APIs, data platforms and full-stack apps that **stay up**: PostgreSQL at 12M+ ro
 
 ## 02 — Flagship systems
 
-<a href="https://github.com/Aaayyuusshhh/argus-aml-intelligence-engine"><img src="assets/argus-v4.svg" alt="Argus" width="100%"/></a>
+<a href="https://github.com/Aaayyuusshhh/argus-aml-intelligence-engine"><img src="assets/argus-v5.svg" alt="Argus" width="100%"/></a>
 
 **[Argus](https://github.com/Aaayyuusshhh/argus-aml-intelligence-engine) is a global anti-money-laundering and sanctions intelligence engine.**
 - Collects **800 official watchlists** (OFAC, UN, EU, Interpol, SEBI, RBI and more) from **90+ countries** into one **12.2-million-record** database.
@@ -57,7 +57,7 @@ APIs, data platforms and full-stack apps that **stay up**: PostgreSQL at 12M+ ro
 
 <br/>
 
-<a href="https://github.com/Aaayyuusshhh/atlas-agentic-credit-intelligence"><img src="assets/atlas-v4.svg" alt="Atlas" width="100%"/></a>
+<a href="https://github.com/Aaayyuusshhh/atlas-agentic-credit-intelligence"><img src="assets/atlas-v5.svg" alt="Atlas" width="100%"/></a>
 
 **[Atlas](https://github.com/Aaayyuusshhh/atlas-agentic-credit-intelligence) is the AI credit-intelligence platform behind [resurgentindia.ai](https://resurgentindia.ai).**
 - From a single company ID it produces **bank-ready deliverables**: credit workbooks, board notes in 24 bank formats, forensic audits, valuations and AML reports.
@@ -68,13 +68,13 @@ APIs, data platforms and full-stack apps that **stay up**: PostgreSQL at 12M+ ro
 
 ## 03 — How it all connects
 
-<img src="assets/ecosystem-v4.svg" alt="How Argus and Atlas connect" width="100%"/>
+<img src="assets/ecosystem-v5.svg" alt="How Argus and Atlas connect" width="100%"/>
 
 ---
 
 ## 04 — Impact in numbers
 
-<img src="assets/impact-v4.svg" alt="Impact in numbers" width="100%"/>
+<img src="assets/impact-v5.svg" alt="Impact in numbers" width="100%"/>
 
 ---
 
@@ -96,7 +96,7 @@ APIs, data platforms and full-stack apps that **stay up**: PostgreSQL at 12M+ ro
   <img src="https://skillicons.dev/icons?i=python,ts,react,fastapi,postgres,pytorch,aws,gcp,docker,linux,nginx,githubactions&theme=dark&perline=12" alt="Core technologies"/>
 </p>
 
-<img src="assets/stack.svg" alt="Technical toolbox: Generative AI, ML, automation, backend, frontend, cloud" width="100%"/>
+<img src="assets/stack-v5.svg" alt="Technical toolbox: Generative AI, ML, automation, backend, frontend, cloud" width="100%"/>
 
 ---
 
